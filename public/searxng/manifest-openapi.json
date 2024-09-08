@@ -1,0 +1,19 @@
+{
+  "$schema": "../../node_modules/@lobehub/chat-plugin-sdk/schema.json",
+  "openapi": "http://localhost:3000/searxng/openapi.json",
+  "api": [],
+  "author": "dielectric",
+  "createdAt": "2024-04-12",
+  "gateway": "http://localhost:3000/api/gateway",
+  "identifier": "searXng-search-plugin",
+  "meta": {
+    "avatar": "\uD83D\uDE80",
+    "tags": [
+      "web",
+      "search"
+    ],
+    "title": "联网搜索",
+    "description": "查询搜索引擎获取信息"
+  },
+  "version": "1"
+}

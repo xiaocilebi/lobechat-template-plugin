@@ -1,0 +1,18 @@
+{
+  "$schema": "../../node_modules/@lobehub/chat-plugin-sdk/schema.json",
+  "openapi": "http://localhost:3000/readability/openapi.json",
+  "api": [],
+  "author": "dielectric",
+  "createdAt": "2024-04-11",
+  "gateway": "http://localhost:3000/api/gateway",
+  "identifier": "article-parse-plugin",
+  "meta": {
+    "avatar": "\uD83D\uDE80",
+    "tags": [
+      "template"
+    ],
+    "title": "网页解析",
+    "description": "This is the plugin template for LobeChat plugin development"
+  },
+  "version": "1"
+}
